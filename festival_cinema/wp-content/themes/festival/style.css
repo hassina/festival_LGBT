@@ -1,0 +1,124 @@
+/*
+Theme Name : Festival
+Description:  Thème enfant du theme Twenty Twelve
+Author: khelil
+Template: twentytwelve
+Version: 0.1.0
+*/
+
+@import url("../twentytwelve/style.css");
+
+
+.fg-rouge{
+background-color: #ff0000;
+margin:0px !important;
+width:100px !important;
+text-align: center;
+heigth:60px !important;
+border:solid 3px #ff0000;
+}
+.fg-orange{
+background-color: #FF9300;
+margin:0px !important;
+width:155px !important;
+text-align: center;
+border:solid 3px #FF9300;
+}
+.fg-jaune{
+background-color: #FFF168;
+margin:0px !important;
+width:155px !important;
+text-align: center;
+border:solid 3px #FFF168;
+}
+.fg-vert{
+background-color: #72AA4E;
+margin:0px !important;
+width:155px !important;
+text-align: center;
+border:solid 3px #72AA4E;
+}
+.fg-bleu{
+background-color: #046380;
+margin:0px !important;
+width:155px !important;
+text-align: center;
+border:solid 3px #046380;
+}
+.fg-violet{
+background-color: #853894;
+margin:0px !important;
+width:155px !important;
+text-align: center;
+border:solid 3px #853894;
+}
+
+.fg-rouge a{
+color: #fff !important;
+font-size: 15px !important;
+style:bold !important;
+}
+.fg-orange a{
+color:#fff !important;
+font-size: 15px !important;
+style:bold !important;
+}
+.fg-jaune a{
+color:#fff !important;
+font-size: 15px !important;
+style:bold !important;  
+}
+
+.fg-vert a{
+color:#fff !important;
+font-size: 15px !important;
+style:bold !important;  
+}
+
+.fg-bleu a{
+color:#fff !important;
+font-size: 15px !important;
+style:bold !important;  
+}
+
+.fg-violet a{
+color:#fff !important;
+font-size: 15px !important;
+style:bold !important;  
+}
+
+.site-content article {
+    -moz-hyphens: auto;
+    border-bottom: 4px double #EDEDED;
+    margin-bottom: 5.14286rem;
+    padding-bottom: 1.71429rem;
+    word-wrap: break-word;
+	heigth: auto;
+}
+
+.widget-area .widget h3 {
+	color: black;
+	font-size: verdana;
+    margin-bottom: 1.71429rem;
+}
+.widget-area .widget {
+    -moz-hyphens: auto;
+    color: #527F89;
+    margin-bottom: 3.42857rem;
+    word-wrap: break-word;
+}
+
+.entry-content p, .entry-summary p, .comment-content p, .mu_register p {
+    line-height: 1.71429;
+    margin: 0 0 1.71429rem;
+	padding-bottom: 1rem;
+}
+
+.site-content article {
+    -moz-hyphens: auto;
+    border-bottom: 4px double #EDEDED;
+    margin-bottom: 5.14286rem;
+    padding: 1.71429rem;
+	
+    word-wrap: break-word;
+}
